@@ -1,0 +1,15 @@
+.text--bold {
+  color: red;
+}
+
+.parent .child {
+  color: green;
+}
+
+.parent {
+  color: yellow;
+}
+
+#blog {
+  color: rebeccapurple;
+}
